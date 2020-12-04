@@ -1,0 +1,9 @@
+@startuml titletheme
+
+skinparam titleBorderRoundCorner 8
+skinparam titleBorderThickness 2
+skinparam titleBorderColor #1a66c2
+skinparam titleBackgroundColor #2a86e2
+skinparam titleFontColor White
+
+@enduml
