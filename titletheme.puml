@@ -1,5 +1,7 @@
 @startuml titletheme
 
+!includeurl https://raw.githubusercontent.com/Drakemor/RedDress-PlantUML/master/style.puml
+
 skinparam titleBorderRoundCorner 8
 skinparam titleBorderThickness 2
 skinparam titleBorderColor #1a66c2
